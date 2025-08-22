@@ -1,0 +1,20 @@
+# python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# local secrets & artifacts
+.env
+database/*.db
+*.wav
+*.ogg
+
+# IDE / OS
+.idea/
+.DS_Store
+.env
+*.env
+.env
+*.env

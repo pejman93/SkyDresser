@@ -1,0 +1,7 @@
+python-telegram-bot>=20
+python-dotenv
+requests
+openai>=1.0.0
+sounddevice
+scipy
+assemblyai
