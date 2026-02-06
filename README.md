@@ -129,4 +129,3 @@ SkyDresser is a functional prototype:
 - Support for more languages in both text and voice.
 - Deployable beyond Telegram (e.g. WhatsApp, Slack).
 
----
